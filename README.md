@@ -113,38 +113,51 @@ SISTEMA DE GESTIÓN DE GASTOS
 ## 📸 Capturas de Pantalla
 
 ### Menú Principal
-![Menú Principal](docs/images/ejemplo_menu.png)
+
+<p align="center">
+  <img src="docs/images/ejemplo_menu.png" alt="Menú Principal">
+</p>
 
 ### Gráficos de Análisis
 
 **Gráfico de línea - Ejemplo**
-![Gráfico Plot](docs/images/Ejemplo_Grafico-plot.png)
+<p align="center">
+  <img src="docs/images/Ejemplo_Grafico-plot.png" alt="Gráfico Plot">
+</p>
 
 **Gráfico de barras - Ejemplo**
-![Gráfico Barras](docs/images/Ejemplo_Grafico-Barras.png)
+<p align="center">
+  <img src="docs/images/Ejemplo_Grafico-Barras.png" alt="Gráfico Barras">
+</p>
 
 **Gráfico por categorias - Ejemplo**
-![Gráfico por Categorias](docs/images/Ejemplo_Grafico-por-Categoria.png)
-
-### Gestión de Gastos
-
-![Tabla de Gastos](docs/images/tabla_gastos.png)
+<p align="center">
+  <img src="docs/images/Ejemplo_Grafico-por-Categoria.png" alt="Gráfico por Categorias">
+</p>
 
 ### Calculos
 
 **Calculos Generales - Ejemplo**
-![Generales](docs/images/Ejemplo_opcion4.png)
+<p align="center">
+  <img src="docs/images/Ejemplo_opcion4.png" alt="Generales">
+</p>
 
 **Calculos por Categoría - Ejemplo**
-![Categoría](docs/images/Ejemplo_opcion5.png)
+<p align="center">
+  <img src="docs/images/Ejemplo_opcion5.png" alt="Categoría">
+</p>
 
-### Gestion de datos
+### Gestion de Gastos
 
 **Ver Todos los Gastos**
-![Categoría](docs/images/Ejemplo_opcion6.png)
+<p align="center">
+  <img src="docs/images/Ejemplo_opcion6.png" alt="Categoría">
+</p>
 
 **Agregar nuevos gastos - Ejemplo**
-![Categoría](docs/images/Ejemplo_opcion7.png)
+<p align="center">
+  <img src="docs/images/Ejemplo_opcion7.png" alt="Categoría">
+</p>
 
 ---
 
@@ -200,12 +213,6 @@ EXPENSEANALYZER/
 - Creación automática de respaldos antes de cada modificación
 - Nomenclatura con timestamp: `Gastos.csv.backup_YYYYMMDD_HHMMSS`
 - Almacenamiento organizado en carpeta dedicada
-
----
-
-## 📸 Capturas de Pantalla
-
-> *Próximamente: Agregar capturas de los gráficos y del menú interactivo*
 
 ---
 
