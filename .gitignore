@@ -7,6 +7,8 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+__pycache__/
+*.pyc
 
 # Virtual Environment
 .venv/
@@ -28,5 +30,3 @@ Thumbs.db
 data/backups/
 *.backup_*
 
-__pycache__/
-*.pyc
