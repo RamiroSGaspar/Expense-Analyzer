@@ -28,5 +28,3 @@ Thumbs.db
 data/backups/
 *.backup_*
 
-# Docs
-docs/images/
