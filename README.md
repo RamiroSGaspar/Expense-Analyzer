@@ -1,6 +1,6 @@
 # 📊 Sistema de Gestión de Gastos Personales
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.24%2B-013243.svg)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7%2B-11557c.svg)](https://matplotlib.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -109,6 +109,42 @@ SISTEMA DE GESTIÓN DE GASTOS
 
 10. Salir
 ```
+
+## 📸 Capturas de Pantalla
+
+### Menú Principal
+![Menú Principal](docs/images/ejemplo_menu.png)
+
+### Gráficos de Análisis
+
+**Gráfico de línea - Ejemplo**
+![Gráfico Plot](docs/images/Ejemplo_Grafico-plot.png)
+
+**Gráfico de barras - Ejemplo**
+![Gráfico Barras](docs/images/Ejemplo_Grafico-Barras.png)
+
+**Gráfico por categorias - Ejemplo**
+![Gráfico por Categorias](docs/images/Ejemplo_Grafico-por-Categoria.png)
+
+### Gestión de Gastos
+
+![Tabla de Gastos](docs/images/tabla_gastos.png)
+
+### Calculos
+
+**Calculos Generales - Ejemplo**
+![Generales](docs/images/Ejemplo_opcion4.png)
+
+**Calculos por Categoría - Ejemplo**
+![Categoría](docs/images/Ejemplo_opcion5.png)
+
+### Gestion de datos
+
+**Ver Todos los Gastos**
+![Categoría](docs/images/Ejemplo_opcion6.png)
+
+**Agregar nuevos gastos - Ejemplo**
+![Categoría](docs/images/Ejemplo_opcion7.png)
 
 ---
 

@@ -1,17 +1,18 @@
 año,mes,dia,categoria,precio,descripcion
-2025,05,27,alimentación,150.75,Empanadas de pollo y empanadas fritas de carne
-2025,06,23,transporte,50.0,Colectivo Saeta
-2025,07,11,entretenimiento,75.5,Pesas
-2024,12,05,salud,200.0,Curitas
-2024,11,15,hogar,300.0,Luz
-2024,10,20,educación,120.0,Curso de Python
-2023,09,30,viajes,500.0,Viaje de fin de semana a Cafayate
-2023,08,25,alimentación,180.0,Pizza
-2023,07,10,transporte,60.0,Uber
-2022,06,18,entretenimiento,90.0,Zapatillas
+2025,05,27,alimentación,150.75,empanadas de pollo y empanadas fritas de carne
+2025,06,23,transporte,50.0,colectivo saeta
+2025,07,11,entretenimiento,75.5,pesas
+2024,12,05,salud,200.0,curitas
+2024,11,15,hogar,300.0,luz
+2024,10,20,educación,120.0,curso de python
+2023,09,30,viajes,500.0,viaje de fin de semana a cafayate
+2023,08,25,alimentación,180.0,pizza
+2023,07,10,transporte,60.0,uber
+2022,06,18,entretenimiento,90.0,zapatillas
 2022,05,22,salud,250.0,barbijos
 2025,04,03,alimentación,20000.0,pizza
 2025,05,27,alimentación,3000.0,empandas de pollo fritas
-2025,05,25,entretenimiento,9000.0,compra de GTA 
-2025,05,05,entretenimiento,7000.0,Mes de Gym
-2024,12,31,transporte,79889.0,Uber
+2025,05,25,entretenimiento,9000.0,compra de gta
+2025,05,05,entretenimiento,7000.0,mes de gym
+2024,12,31,transporte,79889.0,uber
+2025,11,06,alimentación,7000.0,Patynesa con papas fritas

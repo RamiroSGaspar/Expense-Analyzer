@@ -27,3 +27,6 @@ Thumbs.db
 # Backups
 data/backups/
 *.backup_*
+
+# Docs
+docs/images/
