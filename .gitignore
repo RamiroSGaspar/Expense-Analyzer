@@ -28,3 +28,5 @@ Thumbs.db
 data/backups/
 *.backup_*
 
+__pycache__/
+*.pyc
