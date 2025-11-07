@@ -3,6 +3,7 @@ from graficos import grafico_gastos_generales_plot, grafico_gastos_generales_bar
 from calculos import calculos_generales, calculos_especificos
 from crud import ver_gastos, modificar_gasto, eliminar_gasto, menu_agregar_gastos, guardar_csv
 
+# Función Principal
 def main():
     gastos, dias, meses, años, categorias, descripciones = analisis_csv()
 
