@@ -43,3 +43,6 @@ def main():
             print("\nSaliendo del programa...")
             break
         else: print("Error. opcion no valida, por favor, intenta de nuevo.")
+        
+if __name__ == "__main__":
+    main()
